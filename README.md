@@ -13,3 +13,11 @@ You should enter your own file path:
 ```
 base_dir = r"your_path"
 ```
+
+YOUR DİRECTORY NAMES: 
+
+BEFORE : 
+Margot Robbie.jpg
+
+AFTER : 
+Margot_Robbie.jpg
